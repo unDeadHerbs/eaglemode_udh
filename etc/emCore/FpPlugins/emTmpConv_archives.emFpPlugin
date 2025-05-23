@@ -7,6 +7,7 @@ FileTypes = {
  ".gz" ".z"
  ".lzma"
  ".lzo"
+ ".rar"
  ".tar"
  ".tar.bz2" ".tbz2" ".tgj" ".tar.bz" ".tbz"
  ".tar.gz" ".tgz" ".tar.z" ".taz"
